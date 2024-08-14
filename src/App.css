@@ -1,0 +1,22 @@
+* {
+  padding:0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.underline {
+  border-bottom: 1px solid #000;
+  width: 300px;
+  margin: 20px auto;
+}
+
+.image {
+  width: 100px;
+  height: 200px;
+  object-fit: cover;
+}
+
+.card {
+  display: flex;
+  justify-content: space-between;
+}
